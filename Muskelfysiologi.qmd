@@ -1,0 +1,19 @@
+---
+title: "Muskelfysiologi"
+author: "Hennie Engebretsen"
+format: html
+---
+
+# Eksitasjon-kontraksjon
+
+Muskelfibre er innervert av motoriske nerveceller, organsisert motoriske enheter. Elektrisk signal- aksjonspotensiale, kjemisk signal acetylcholin. Elektrisk aksjonspotensiale.
+
+Muskelaksjonspotensialet overføres til SR i t-tubli. Dihydropyriedinreseptorer- CaM, CaMKII påvirker RYR avhengig av cytodolisk Ca2+.
+
+## Lengde-spenning
+
+Overlapept mellom aktin og myosin bestememr antallet potensielle kryssbrokoblinger. Kan ikke endres på sarkomer nivå, endret på muskelnivå slik : flere sarkomerer i serie, mindre viktig ved høye hastigheter.
+
+Kryssbrokinetikk type 2 kan slappes av fortere. Relaksasjonen i type 1 går tregere om muskelen står på strekk. 
+
+
