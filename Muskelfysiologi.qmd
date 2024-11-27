@@ -4,6 +4,12 @@ author: "Hennie Engebretsen"
 format: html
 ---
 
+
+
+
+
+
+
 # Eksitasjon-kontraksjon
 
 Muskelfibre er innervert av motoriske nerveceller, organsisert motoriske enheter. Elektrisk signal- aksjonspotensiale, kjemisk signal acetylcholin. Elektrisk aksjonspotensiale.
@@ -17,3 +23,9 @@ Overlapept mellom aktin og myosin bestememr antallet potensielle kryssbrokobling
 Kryssbrokinetikk type 2 kan slappes av fortere. Relaksasjonen i type 1 går tregere om muskelen står på strekk. 
 
 
+Type II høy kraft ved stor hastighet.
+
+
+## Muskelarkitektur
+
+Fjærformet muskel danner muskelfibrene en vinkel med muskelens lengdeakse. Fjærformingen kan variere fra muskel til muskel, ved lengdeforandring av muskel og ved hypertrofi. Ved kontraksjon dreier muskelfibrene seg om sitt proksimale feste i fascien og bidrar til større forkortning av muskelen
