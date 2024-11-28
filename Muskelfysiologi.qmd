@@ -58,11 +58,44 @@ Hvilke proteiner som utrykkes i muskelaturen er også meget plastisk - utholdenh
 
 ##Proteinturnover er helt essensielt 
 
-Proteinene består av ulike kombinasjoner av 20 aminosyrer. 70 kg ann har ca 200-230 g frie aminosyrer i kroppen, ca 120g i muskel. Proteinturnover i hele kroppen på ca 280g per dag 1-2% muskel. Opptar ca 20% av hvilemetabolismen. Ca 80% av nedbrutt protein bygges inn igjen i muskel. 
+Proteinene består av ulike kombinasjoner av 20 aminosyrer. 70 kg mann har ca 200-230 g frie aminosyrer i kroppen, ca 120g i muskel. Proteinturnover i hele kroppen på ca 280g per dag 1-2% muskel. Opptar ca 20% av hvilemetabolismen. Ca 80% av nedbrutt protein bygges inn igjen i muskel. 
 
 ## Hva er protein turnover?
 
 Bestemmes av hastigheten på syntese og nedbrytning. Kontinuerlige prosesser MPS responderer mer på stimuli, bestemmes hovedssak av proteinntak og aktivitet. 
+
+
+
+## Hva bestemmer egenskapene til en celle
+
+
+En celle reagerer på homeostasen rundt cella endrer seg for å adaptere til ulike responser. 
+
+
+
+## Signalveier for muskelvekst
+
+Mekanotransduksjon 
+Det er mange signalveier via mTORC1:
+
+IGF-1/vekstfaktorer
+FAK/integrinsignalering
+Ca++
+DAG-K -> PA
+
+ Disse signalveiene strekke
+ 
+Det finnes mange signalveier utenom mTORC1:
+MAPK
+YAP/Hippo
+TRIM28
+UBF
+MYC
+
+Mekanisk stimuli + aminosyrer vil vekst signalet slå på reb som slår på mTor samt at aminosyrer vil aktivere.
+
+
+Høy aktivitet av mTOr er nødvendigvis ikke det beste, en ser hos eldre at mTOR på baseline er høyere enn vanlig. Rent hypotetisk er at det kan være en intraksjon mellom nedbryting. 
 
 
 
