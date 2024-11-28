@@ -4,12 +4,6 @@ author: "Hennie Engebretsen"
 format: html
 ---
 
-
-
-
-
-
-
 # Eksitasjon-kontraksjon
 
 Muskelfibre er innervert av motoriske nerveceller, organsisert motoriske enheter. Elektrisk signal- aksjonspotensiale, kjemisk signal acetylcholin. Elektrisk aksjonspotensiale.
@@ -20,12 +14,55 @@ Muskelaksjonspotensialet overføres til SR i t-tubli. Dihydropyriedinreseptorer-
 
 Overlapept mellom aktin og myosin bestememr antallet potensielle kryssbrokoblinger. Kan ikke endres på sarkomer nivå, endret på muskelnivå slik : flere sarkomerer i serie, mindre viktig ved høye hastigheter.
 
-Kryssbrokinetikk type 2 kan slappes av fortere. Relaksasjonen i type 1 går tregere om muskelen står på strekk. 
-
+Kryssbrokinetikk type 2 kan slappes av fortere. Relaksasjonen i type 1 går tregere om muskelen står på strekk.
 
 Type II høy kraft ved stor hastighet.
 
-
 ## Muskelarkitektur
 
-Fjærformet muskel danner muskelfibrene en vinkel med muskelens lengdeakse. Fjærformingen kan variere fra muskel til muskel, ved lengdeforandring av muskel og ved hypertrofi. Ved kontraksjon dreier muskelfibrene seg om sitt proksimale feste i fascien og bidrar til større forkortning av muskelen
+Fjærformet muskel danner muskelfibrene en vinkel med muskelens lengdeakse. Fjærformingen kan variere fra muskel til muskel, ved lengdeforandring av muskel og ved hypertrofi. Ved kontraksjon dreier muskelfibrene seg om sitt proksimale feste i fascien og bidrar til større forkortning av muskelen.
+
+Fysiologisk og anatomisk tverrsnitt
+
+Når hastigheten øker har ikke kraft-lengde forholdet så mye å si. Det å skulle legge til flere kryssbroer betyr mindre
+
+Man tror ikke at vi får ikke flere fibre, men hver enkelt fiber kan bli større.
+
+Seriekoblede muskelfibre
+
+Det er ikke alle muskefibre som går igjennom hele bukem som gjør at fiber kan bli større men at ikke muskleen blir lengre.
+
+Ytre vektarmer Den korteste avstanden fra et ledds omdreiningsakse til tyngdelinjens virkelinje over leddet. Endres ved teknikk
+
+Indre vektarmer
+
+Den korteste avstanden fra et ledds omdreiningsakse til muskelkraftens virkelinje over leddet.
+
+# Muskulære tilpassninger til aktivitetsnivå
+
+Hypertrofi
+
+Økning i muskelcellens volum
+
+Hyperplasi??
+
+Atrofi- reduksjons i muskelcellens volum
+
+Endring i kvalitet - fibertypeovergang og endring i sammensetning.
+
+
+## Proteinmetabolisme
+
+Muskelmassen er meget plastisk 70kg mann har 28-35kg muskelmasse, totalt har han ca 12kg protein i kroppen og 7 av disse er i muskelaturen. Hovedlager for protein i kroppen.
+Hvilke proteiner som utrykkes i muskelaturen er også meget plastisk - utholdenhetstrening fører til et annet genutrykk enn styrketrening.
+
+##Proteinturnover er helt essensielt 
+
+Proteinene består av ulike kombinasjoner av 20 aminosyrer. 70 kg ann har ca 200-230 g frie aminosyrer i kroppen, ca 120g i muskel. Proteinturnover i hele kroppen på ca 280g per dag 1-2% muskel. Opptar ca 20% av hvilemetabolismen. Ca 80% av nedbrutt protein bygges inn igjen i muskel. 
+
+## Hva er protein turnover?
+
+Bestemmes av hastigheten på syntese og nedbrytning. Kontinuerlige prosesser MPS responderer mer på stimuli, bestemmes hovedssak av proteinntak og aktivitet. 
+
+
+
